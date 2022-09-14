@@ -1,0 +1,5 @@
+*.env
+*.cache
+*.csv
+venv/
+*.DS_Store
